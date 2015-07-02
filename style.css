@@ -66,7 +66,7 @@
 
 html {
     font-size: 100%;
- /* font-size: 16px; */;
+ /* font-size: 16px; */
 }
 
 
@@ -189,7 +189,7 @@ h6 {
 .row-content.buffer,
 .row-content.buffer-top {
     padding-top: 3.8%;
- /* This overwrites a layers.css rule */;
+ /* This overwrites a layers.css rule */
 }
 
 
@@ -474,7 +474,7 @@ nav li {
 
 nav > ul li:hover > ul.sub-menu {
     display: block;
- /* show the submenu */;
+ /* show the submenu */
 }
 
 nav .sub-arrow {
@@ -831,7 +831,7 @@ nav ul.sub-menu > li:last-child > a {
 #intro-wrap:hover .preload .more a {
     opacity: 0;
     filter: Alpha(Opacity=0);
- /* IE7 fix */;
+ /* IE7 fix */
 }
 
 #intro-wrap .more a {
@@ -847,7 +847,7 @@ nav ul.sub-menu > li:last-child > a {
 #intro-wrap:hover .more a {
     opacity: 1;
     filter: Alpha(Opacity=100);
- /* IE7 fix */;
+ /* IE7 fix */
 }
 
 
